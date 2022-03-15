@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
     }
+    //İsim değiştirme kodu
     fun degistir (view: View){
 
         textView.text= "İsim Değiştirildi"
