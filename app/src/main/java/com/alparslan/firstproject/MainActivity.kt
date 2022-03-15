@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun degistir (view: View){
 
-        textView.text= "Isım Degistirildi"
+        textView.text= "İsim Değiştirildi"
 
 
     }
